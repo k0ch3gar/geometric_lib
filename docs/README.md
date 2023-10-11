@@ -1,5 +1,5 @@
 # Math formulas for different shapes
-	Functions for fast calculation for different shapes
+Functions for fast calculation for Square, Triangle, Rectangle and Circle
 
 
 # Area
