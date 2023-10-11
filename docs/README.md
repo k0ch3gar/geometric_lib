@@ -8,10 +8,10 @@
 ## Circle: S = πR²
 
 ### Function
-	area( par1 ) >> circleArea
+	area( radius ) >> circleArea
 	
 ### Parameters
-	(long double) par1
+	(long double) radius
 	
 ### Return Value
 	(long double) circleArea
@@ -41,6 +41,18 @@
 ### Return Value
 	(long double) squareArea
 	
+## Triangle
+
+### Function
+	area( side, height ) >> triangleArea
+
+### Parameters
+	(long double) side
+	(long double) height
+
+### Return Value
+	(long double) triangleArea
+	
 ## Area Examples
 
 ### Circle
@@ -54,6 +66,10 @@
 ### Square
 	area( 5 )
 	>> 25
+
+### Triangle
+	area( 5, 6 )
+	>> 15
 
 # Perimeter
 
@@ -92,6 +108,19 @@
 
 ### Return Value
 	(long double) squarePerimeter
+	
+## Triangle
+
+### Function
+	perimeter( side1, side2, side3) >> trianglePerimeter
+
+### Parameters
+	(long double) side1
+	(long double) side2
+	(long double) side3
+
+### Return Value
+	(long double) trianglePerimeter
 
 ## Perimeter Examples
 
@@ -106,6 +135,10 @@
 ### Square
 	perimeter( 5 )
 	>> 20
+
+### Triangle
+	perimeter( 5, 6, 7)
+	>> 18
 
 # Commit history
 
