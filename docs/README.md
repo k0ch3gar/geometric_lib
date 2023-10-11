@@ -110,14 +110,14 @@
 # Commit history
 
 ## * commit eaf059f3b71aabe9793e753dbcaa32dc66317d19 (HEAD -> a, main)
-| Author: KonstantinMinecraft <343690@edu.itmo.ru>
-| Date:   Wed Sep 13 14:02:51 2023 +0300
-|
-|     Added triangle.py, Fixed mistake in rectangle.py
-|
+	| Author: KonstantinMinecraft <343690@edu.itmo.ru>
+	| Date:   Wed Sep 13 14:02:51 2023 +0300
+	|
+	|     Added triangle.py, Fixed mistake in rectangle.py
+	|
 ## * commit 34b22008c5e3d6b33e9726d4f5e3653a22a9a39e
-| Author: KonstantinMinecraft <343690@edu.itmo.ru>
-| Date:   Wed Sep 13 14:00:03 2023 +0300
-|
-|     Added rectangle.py
-|
+	| Author: KonstantinMinecraft <343690@edu.itmo.ru>
+	| Date:   Wed Sep 13 14:00:03 2023 +0300
+	|
+	|     Added rectangle.py
+	|
