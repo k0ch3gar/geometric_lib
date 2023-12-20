@@ -11,7 +11,7 @@ jobs:
         os: [ubuntu-latest, windows-latest]
 
     steps:
-    - name: Checkout code
+    - name: Get code
       uses: actions/checkout@v2
 
     - name: Set up Python
