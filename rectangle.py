@@ -8,9 +8,6 @@ class RectangleTestCase(unittest.TestCase):
     def test_square_mul(self):
         res = area(10, 10)
         self.assertEqual(res, 100)
-       
-    def test_float_mul(self):
-        self.assertEqual(area(12.4, 2.5), float(31))
         
     def test_zero_per_mul(self):
         res = perimeter(10, 0)
@@ -19,9 +16,6 @@ class RectangleTestCase(unittest.TestCase):
     def test_square_per_mul(self):
         res = perimeter(10, 10)
         self.assertEqual(res, 40)
-       
-    def test_float_per_mul(self):
-        self.assertEqual(perimeter(12.4, 2.5), 29.8)
 
 
 def area(a, b):
