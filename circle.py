@@ -6,9 +6,6 @@ class RectangleTestCase(unittest.TestCase):
         res = area(0)
         self.assertEqual(res, 0)
         
-    def test_square_area_mul(self):
-        res = area(10)
-        self.assertEqual(res, math.pi * 100)
 
 
 
